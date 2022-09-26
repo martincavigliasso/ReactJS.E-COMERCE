@@ -1,5 +1,5 @@
 import React from "react"
-import IMG from "../../images/img01.jpg";
+import IMG from "../../images/medias.jpeg";
 
 export const ProductosLista = () => {
     return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import Nike from "../../images/Nike.jpg";
+import Nike from "../../images/logo.jpeg";
 
 export const Header = () => {
     return(
