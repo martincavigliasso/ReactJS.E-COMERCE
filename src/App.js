@@ -1,18 +1,18 @@
-import React from "react";
-import {Header} from "./componentes/Header";
-import {ProductosLista } from "./componentes/Productos/index";
-import 'boxicons';
+import './App.css';
+import Footer from './components/Footer/Footer';
+import Navbar from './components/Header/Navbar';
+import ItemListContainer from '../components/Main/ItemListContainer';
 
 function App() {
-  return (
-    <div className="App">
-      <Header />
-      <ProductosLista/>
-      
-      
-    </div>
-  );
+    return (
+        <>
+            <Navbar />
+            <main>
+                <ItemListContainer />
+            </main>
+            <Footer />
+        </>
+    );
 }
-
 
 export default App;
