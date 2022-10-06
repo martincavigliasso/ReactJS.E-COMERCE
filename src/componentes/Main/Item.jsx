@@ -1,11 +1,11 @@
 import React from 'react';
 
 const Item = () => {
-    //renderizado en el DOM de los productos
+    
     return (
         <article className="card">
             <img
-                src="https://res.cloudinary.com/ericwaje/image/upload/v1619372707/remera2_pe94nf.jpg"
+                src="https://http2.mlstatic.com/D_NQ_NP_728263-MLA43505128537_092020-O.jpg"
                 alt=""
             />
             <div className="card-info">
