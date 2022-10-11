@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav>
             <h1>Perpetua</h1>
             <ul>
-                <li>conjuntos</li>
+                <li>Conjuntos</li>
                 <li>Medias</li>
                 <li>tops</li>
             </ul>

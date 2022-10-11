@@ -1,23 +1,23 @@
 export const products = [
     {
-        title: 'Remera blanca',
+        title: 'Conjunto de encaje',
         price: 200,
         stock: 10,
-        category: 'remeras',
-        img: 'https://res.cloudinary.com/ericwaje/image/upload/v1619372707/remera2_pe94nf.jpg',
+        category: 'CONJUNTOS',
+        img: 'https://http2.mlstatic.com/D_NQ_NP_728263-MLA43505128537_092020-O.jpg',
     },
     {
-        title: 'Camisa azul',
+        title: 'Medias invisibles',
         price: 300,
         stock: 5,
-        category: 'camisas',
-        img: 'https://res.cloudinary.com/ericwaje/image/upload/v1619372706/camisa4_ehruek.jpg',
+        category: 'MEDIAS',
+        img: 'https://http2.mlstatic.com/D_NQ_NP_872450-MLA46584894426_072021-O.jpg',
     },
     {
-        title: 'Gorra negra',
+        title: 'tops deportivos',
         price: 20,
         stock: 3,
-        category: 'gorras',
-        img: 'https://res.cloudinary.com/ericwaje/image/upload/v1619372706/gorra4C_nyvjj6.jpg',
+        category: 'TOPS',
+        img: 'https://www.salomonstore.com.ar/media/catalog/product/cache/bff2882489f17a7522b9239d4ff49d4a/1/_/1_9.jpeg',
     },
 ];
